@@ -1,104 +1,15 @@
-```markdown id="ghds92"
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
+# 💫 About Me:
+# Hi 👋, I'm Dilshan<br><br>### Data Science Undergraduate | Python • R • SQL • Machine Learning • NLP • Big Data<br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=Dilshan29883&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/><br></p><br><br>---<br><br>## 🚀 About Me<br><br>🎓 Data Science Undergraduate<br>🌱 Currently learning **Machine Learning, Deep Learning, NLP & Big Data**<br>💻 Building projects in **Data Science, Analytics & AI**<br>💬 Ask me about **Python, SQL, Machine Learning, Hadoop & Spark**<br>📫 Reach me at: **[dilshantharaka132@gmail.com](mailto:dilshantharaka132@gmail.com)**<br>⚡ Fun fact: **I turn data into insights 📊**<br><br>---<br><br>## 🌐 Connect with Me<br><br><p align="left"><br><br><a href="https://github.com/Dilshan29883"><br><img src="https://skillicons.dev/icons?i=github" height="45"/><br></a><br><br><a href="https://linkedin.com/in/dilshan-tharaka-3598501b1"><br><img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br></a><br><br><a href="https://www.hackerrank.com/dilshantharaka11"><br><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="45"/><br></a><br><br></p><br><br>---<br><br># 🛠️ Tech Stack<br><br><p align="left"><br><br><img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgres,docker,linux,git,react,tensorflow"/><br><br></p><br><br>### Data & Big Data Tools<br><br><p align="left"><br><br><img src="https://skillicons.dev/icons?i=apachekafka"/><br><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="50"/><br><br></p><br><br>---<br><br># 📊 GitHub Analytics<br><br><p align="center"><br><br><img height="180em"<br>src="https://github-readme-stats.vercel.app/api?username=Dilshan29883&show_icons=true&theme=tokyonight&count_private=true"/><br><br><img height="180em"<br>src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan29883&layout=compact&theme=tokyonight"/><br><br></p><br><br><p align="center"><br><br><img<br>src="https://github-readme-streak-stats.herokuapp.com?user=Dilshan29883&theme=tokyonight"/><br><br></p><br><br>---<br><br># 🏆 GitHub Trophies<br><br><p align="center"><br><br><img<br>src="https://github-profile-trophy.vercel.app/?username=Dilshan29883&theme=onedark&row=1"/><br><br></p><br><br>---<br><br># 📌 Featured Skills<br><br>✔ Data Analysis<br>✔ Machine Learning<br>✔ Deep Learning<br>✔ NLP<br>✔ Big Data Processing<br>✔ Data Visualization<br>✔ Research & Development<br><br>---<br><br># ✨ Favorite Quote<br><br>> “Without data, you're just another person with an opinion.”<br>> — W. Edwards Deming<br><br>---<br><br><p align="center"><br>⭐ Thanks for visiting my profile ⭐<br></p><br>
 
-<h3 align="center">
-Data Science Undergraduate | Skilled in Python, R, SQL, ML & NLP | Passionate About AI, Data Visualization & Research
-</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilshan29883&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Data Science Undergraduate
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP & Big Data**
-- 👨‍💻 All of my projects are available on my GitHub
-- 💬 Ask me about **Python, SQL, Machine Learning, Hadoop & Spark**
-- 📫 How to reach me: **dilshantharaka132@gmail.com**
-- ⚡ Fun fact: **I turn data into insights 📊**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=coughyyee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/Dilshan29883" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/dilshan-tharaka-3598501b1/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/dilshantharaka11" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dilshan29883&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan29883&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan29883&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshan29883&theme=onedark" alt="trophies" />
-</p>
-
----
-
-## ✨ Quote
-
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
