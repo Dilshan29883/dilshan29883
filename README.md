@@ -25,7 +25,7 @@ Data Science Undergraduate | Skilled in Python, R, SQL, ML & NLP | Passionate Ab
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/dilshan29883" target="blank">
+<a href="https://github.com/Dilshan29883" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 
